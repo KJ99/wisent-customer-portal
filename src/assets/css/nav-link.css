@@ -1,0 +1,25 @@
+
+.nav-link-container {
+    margin: 10px;
+}
+
+.nav-link-title {
+    color: #29FF8A;
+    text-decoration: none !important;
+    font-size: 1.3rem;
+}
+
+.nav-link-title:hover {
+    color: #18de72;
+}
+
+
+.nav-link-title:active {
+    color: #0aa350;
+}
+
+.nav-link-underline {
+    background-color: #18de72;
+    height: 2px;
+    transition: width 0.3s ease-out;
+}

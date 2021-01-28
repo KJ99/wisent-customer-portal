@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import {BrowserRouter, Route, Switch} from "react-router-dom";
+import AppHeader from "./components/app-header";
+import LandingScreen from "./screens/landing-screen";
+import MenuScreen from "./screens/menu-screen";
+import ReserveScreen from "./screens/reserve-screen";
+import './assets/css/master.css'
+import ContactScreen from "./screens/contact";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <section>
+      <BrowserRouter>
+        <AppHeader />
+        <main>
+            <Switch>
+                <Route exact path='/'>
+                    <LandingScreen />
+                </Route>
+                <Route path='/menu'>
+                    <MenuScreen />
+                </Route>
+                <Route path='/reserve'>
+                    <ReserveScreen />
+                </Route>
+                <Route path='/contact'>
+                    <ContactScreen />
+                </Route>
+            </Switch>
+        </main>
+      </BrowserRouter>
+    </section>
   );
 }
+
 
 export default App;

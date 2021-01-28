@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20d8ec15-5ca9-4be5-b72d-5759236b54fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/api/api-actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/api-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/findErrorMessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/homepage-block.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/nav-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/nav-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/reservation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/category-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/empty-list-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/homepage-block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hour-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/progress-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/reservation-date-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/social-media-link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tele-contact-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/authorization.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/categories-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/session.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/token-storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/landing-screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/menu-screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/reserve-screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utilities/case-converter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validation/constraints.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nZjYbT0Du70OzkCJgh4Ds0rfME" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\wisent-customer-portal\src" />
+      <recent name="E:\workspace\wisent-customer-portal\src\assets\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\wisent-customer-portal\src\assets\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20d8ec15-5ca9-4be5-b72d-5759236b54fe" name="Default Changelist" comment="" />
+      <created>1611604555510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611604555510</updated>
+      <workItem from="1611604558111" duration="10700000" />
+      <workItem from="1611689670173" duration="12468000" />
+      <workItem from="1611766111159" duration="21860000" />
+      <workItem from="1611849263894" duration="1116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,124 @@
+.reservation-container {
+}
+
+.label {
+    font-weight: bold;
+}
+
+.hour-select {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.hour-select-item {
+    margin: 10px;
+    padding: 5px;
+    font-size: 2rem;
+    font-weight: bolder;
+    box-shadow: 1px 1px 1px #444;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.hour-select-item-active {
+    background-color: #0aca61;
+    color: #f1f2f3;
+}
+
+.hour-select-item-inactive {
+    background-color: #fff;
+}
+
+.hour-select-item-inactive:hover {
+    background-color: #eee;
+}
+
+.hour-select-item-inactive:active {
+    background-color: #ddd;
+}
+
+
+.form-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 10px 15px 10px 15px
+}
+
+.contact-section {
+}
+
+.form-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+
+@media screen and (min-width: 800px) {
+    .places-input {
+        width: 250px !important;
+    }
+
+    .contact-section {
+        align-items: center;
+    }
+
+    .form-container {
+        flex-direction: row;
+    }
+
+    .reservation-container {
+        padding: 20px;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+    .places-input {
+        width: 300px !important;
+    }
+
+    .contact-section {
+    }
+
+    .form-container {
+        flex-direction: column;
+    }
+
+    .reservation-container {
+    }
+
+}
+
+.form-section-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin: 10px 0 10px 0;
+}
+
+.form-row {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.reservation-summary-container {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.reservation-summary-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.reservation-summary-label {
+    font-weight: bold;
+}
+
+td {
+    padding-right: 10px !important;
+}

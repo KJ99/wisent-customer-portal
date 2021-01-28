@@ -1,0 +1,5 @@
+{
+  "host": "http://localhost:9000",
+  "base_url": "/v1",
+  "token_type": "Bearer"
+}

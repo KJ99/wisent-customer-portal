@@ -1,0 +1,50 @@
+
+.contact-container {
+    padding: 10px;
+    padding-right: 30px;
+}
+
+.contact-tele-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contact-social-media-row {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.social-media-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 10px;
+    border: 1px solid #999;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-section-light {
+    color: #f1f2f3;
+}
+
+.contact-section-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.contact-section-element {
+    font-size: 1.1rem;
+    margin: 10px 0 10px 0;
+}
+
+.contact-icon {
+    margin-right: 10px;
+}
+

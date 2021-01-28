@@ -1,0 +1,60 @@
+nav {
+    padding: 0 30px 0 30px;
+    height: 8vh;
+    width: 100vw;
+    background-color: #2D2824;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+header {
+    width: 100vw;
+    background-color: #2D2824;
+    height: 32vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header-overlay {
+    width: 100vw;
+    height: 32vh;
+    background-color: rgba(18, 157, 3, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-logo {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+}
+
+.screen-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #f1f2f3;
+    margin-bottom: 15px;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-button {
+    background-color: #2D2824 !important;
+    color: #f1f2f3 !important;
+}
